@@ -69,3 +69,7 @@ It enables **real-time Voice-to-Voice interactions** by combining **speech-to-te
 7. 📩 **Optional Email Alerts** sent to users  
 
 ---
+Frontend (HTML/CSS/JS in progress)  
+![Frontend](https://github.com/nagenDev/SpringJarvis-AI-Powered-Voice-Assistant/blob/main/Images%202/Screenshot%20(601).png)  
+
+---
