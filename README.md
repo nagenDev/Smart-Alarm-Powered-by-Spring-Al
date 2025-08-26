@@ -1,4 +1,4 @@
-# 🌟 SpringJarvis – AI Powered Voice Assistant  
+# 🌟 Spring – AI Powered Voice Assistant  
 
 ![Java](https://img.shields.io/badge/Java-17-orange)  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0-brightgreen?logo=springboot)  
@@ -10,7 +10,7 @@
 
 ## 📌 Description  
 
-**SpringJarvis** is an **AI-powered backend assistant** built with **Spring Boot, Spring AI, Ollama, MongoDB, and ElevenLabs API**.  
+**Spring-AI** is an **AI-powered backend assistant** built with **Spring Boot, Spring AI, Ollama, MongoDB, and ElevenLabs API**.  
 It enables **real-time Voice-to-Voice interactions** by combining **speech-to-text, AI text response generation, and text-to-speech conversion**.  
 
 ### 🔑 Features  
@@ -71,5 +71,3 @@ It enables **real-time Voice-to-Voice interactions** by combining **speech-to-te
 ---
 Frontend (HTML/CSS/JS in progress)  
 ![Frontend](https://github.com/nagenDev/SpringJarvis-AI-Powered-Voice-Assistant/blob/main/Images%202/Screenshot%20(601).png)  
-
----
