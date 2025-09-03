@@ -1,5 +1,4 @@
-# 🌟 Spring – AI Powered Voice Assistant  
-
+# 🌟 Smart Alarm Powered by Spring-Al
 ![Java](https://img.shields.io/badge/Java-17-orange)  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0-brightgreen?logo=springboot)  
 ![Spring AI](https://img.shields.io/badge/Spring%20AI-Intelligent%20Apps-6DB33F?logo=spring&logoColor=white)  
